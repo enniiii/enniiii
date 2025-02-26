@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ### Hi there, I'm Enn! 👋
 
 I'm a **student** with a passion for **cybersecurity, automation, and blockchain development**. I enjoy working at the intersection of **business and technology**, solving problems through **programming, data analysis, and security challenges**.
